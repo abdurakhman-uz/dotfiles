@@ -22,8 +22,8 @@
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles)    
 **Monospace Font:**
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono#standard-styles)
-**Terminal Font**
-- JetBrains Mono Nerd Fonts
+**Terminal Font:**
+- [JetBrains Mono Nerd Fonts]
 
 ### Use
 Download Config files from GitHub:
