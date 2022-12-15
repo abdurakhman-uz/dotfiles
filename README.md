@@ -4,7 +4,7 @@
 - **OS:** [Arch Linux](https://archlinux.org)
 - **WM:** [i3-gaps](https://github.com/Airblader/i3)
 - **Bar:** [polybar](https://github.com/polybar/polybar)
-- **Terminal:** [alacritty](https://github.com/alacritty/alacritty)
+- **Terminal:** [alacritty](https://github.com/alacritty/alacritty) and **Kitty**
 - **Application Launcher:** [rofi](https://github.com/davatorium/rofi)
 - **Compositor:** [picom](https://github.com/yshui/picom)
 - **Notification Deamon:** [dunst](https://github.com/dunst-project/dunst)
