@@ -34,15 +34,15 @@ cd dotfiles/
 ```
 Munually copy Config files to the desired location:
 ```
-cp -r config/i3/ $HOME/.config/
-cp -r config/polybar/ $HOME/.config/
-cp -r config/rofi/ $HOME/.config/
-cp -r config/dunst/ $HOME/.config/
-cp -r config/alacritty/ $HOME/.config/
-cp -r config/btop/ $HOME/.config/
-cp -r config/neofetch/ $HOME/.config/
-cp -r config/wallpapers/ $HOME/.config/
-cp config/picom.conf $HOME/.config/
+cp -r i3/ $HOME/.config/
+cp -r polybar/ $HOME/.config/
+cp -r rofi/ $HOME/.config/
+cp -r dunst/ $HOME/.config/
+cp -r alacritty/ $HOME/.config/
+cp -r btop/ $HOME/.config/
+cp -r neofetch/ $HOME/.config/
+cp -r wallpapers/ $HOME/.config/
+cp picom.conf $HOME/.config/
 ```
 
 ### Thanks To
